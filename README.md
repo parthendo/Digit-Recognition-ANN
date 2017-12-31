@@ -29,6 +29,9 @@ This chapter is more mathematically involved than the rest of the book. If you'r
 <a href = "https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/">Link</a> for step-by-step backpropagation execution. The contents of the blog are also present in the theory folder. (Just in case ¯＼(º_o)/¯ )
 
 # Stopping Criteria
+<a href="https://www.codecogs.com/eqnedit.php?latex=Error_{total}&space;=&space;\frac{1}{2}&space;(Output_{Expected}&space;-&space;Output_{Calculated})^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Error_{total}&space;=&space;\frac{1}{2}&space;(Output_{Expected}&space;-&space;Output_{Calculated})^2" title="Error_{total} = \frac{1}{2} (Output_{Expected} - Output_{Calculated})^2" /></a>
+
+Error_{total} = \frac{1}{2} (Output_{Expected} - Output_{Calculated})^2
 <html>
 <head>
 <script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>

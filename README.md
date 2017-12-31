@@ -29,19 +29,10 @@ This chapter is more mathematically involved than the rest of the book. If you'r
 <a href = "https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/">Link</a> for step-by-step backpropagation execution. The contents of the blog are also present in the theory folder. (Just in case ¯＼(º_o)/¯ )
 
 # Stopping Criteria
-<a href="https://www.codecogs.com/eqnedit.php?latex=Error_{total}&space;=&space;\frac{1}{2}&space;(Output_{Expected}&space;-&space;Output_{Calculated})^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Error_{total}&space;=&space;\frac{1}{2}&space;(Output_{Expected}&space;-&space;Output_{Calculated})^2" title="Error_{total} = \frac{1}{2} (Output_{Expected} - Output_{Calculated})^2" /></a>
 
-Error_{total} = \frac{1}{2} (Output_{Expected} - Output_{Calculated})^2
-<html>
-<head>
-<script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
-</head>
-<body>
-Here are my formulas
-<div lang="latex">1+sin(x)^2+3</div>
-<ul>
-<li lang="latex">x^2+y^2+z^2</li>
-<li>a^2+b^2</li>
-</ul>
-</body>
-</html>
+<a href="https://www.codecogs.com/eqnedit.php?latex=Error_{total}&space;=&space;\frac{1}{2}&space;(Output_{Expected}&space;-&space;Output_{Calculated})^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Error_{total}&space;=&space;\frac{1}{2}&space;(Output_{Expected}&space;-&space;Output_{Calculated})^2" title="Error_{total} = \frac{1}{2} (Output_{Expected} - Output_{Calculated})^2" /></a>
+The above is the squared error function used to calculate the error. For each iteration, we check the error obtained in the previous iteration and the current iteration and the difference is then compared with a momentum value. If this goes below a value, we stop the process.
+
+I would like to show my deepest and humble gratitude towards my mentor, Professor Akshay Rajput who helped me in all sorts. Also my friends Saurabh, Vineet, Upendra, Mohak, Priyanshu. Much thanks! ಥ‿ಥ
+
+Feel free to drop any suggestions at parthendo@geu.ac.in 

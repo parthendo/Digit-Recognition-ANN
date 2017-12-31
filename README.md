@@ -26,4 +26,8 @@ The backpropagation algorithm was originally introduced in the 1970s, but its im
 
 This chapter is more mathematically involved than the rest of the book. If you're not crazy about mathematics you may be tempted to skip the chapter, and to treat backpropagation as a black box whose details you're willing to ignore. <a href="http://neuralnetworksanddeeplearning.com/chap2.html">Why take the time to study those details?</a>
 
-<a href = "https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/">Link</a> for step-by-step backpropagation execution
+<a href = "https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/">Link</a> for step-by-step backpropagation execution. The contents of the blog are also present in the theory folder. (Just in case ¯＼(º_o)/¯ )
+
+# Stopping Criteria
+
+[tex]Error_{total} = 1/2 (Output_{Expected} - Output_{Achieved})^2 [/tex] 

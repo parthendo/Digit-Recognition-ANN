@@ -30,4 +30,6 @@ This chapter is more mathematically involved than the rest of the book. If you'r
 
 # Stopping Criteria
 
-[tex]Error_{total} = 1/2 (Output_{Expected} - Output_{Achieved})^2 [/tex] 
+$$
+Error_{total} = \frac{1}{2} (Output_{Expected} - Output_{Achieved})^2
+$$

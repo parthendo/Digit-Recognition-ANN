@@ -1,0 +1,22 @@
+Accuracy when momentum is 1 is 95.850000, iterations = 822
+Accuracy when momentum is 2 is 95.400000, iterations = 450
+Accuracy when momentum is 3 is 95.170000, iterations = 317
+Accuracy when momentum is 4 is 94.810000, iterations = 226
+Accuracy when momentum is 5 is 94.580000, iterations = 190
+Accuracy when momentum is 6 is 94.360000, iterations = 153
+Accuracy when momentum is 7 is 94.280000, iterations = 132
+Accuracy when momentum is 8 is 94.230000, iterations = 117
+Accuracy when momentum is 9 is 94.340000, iterations = 107
+Accuracy when momentum is 10 is 94.060000, iterations = 93
+Accuracy when momentum is 11 is 93.840000, iterations = 82
+Accuracy when momentum is 12 is 93.990000, iterations = 77
+Accuracy when momentum is 13 is 93.930000, iterations = 70
+Accuracy when momentum is 14 is 93.440000, iterations = 65
+Accuracy when momentum is 15 is 93.500000, iterations = 63
+Accuracy when momentum is 16 is 93.460000, iterations = 57
+Accuracy when momentum is 17 is 93.400000, iterations = 52
+Accuracy when momentum is 18 is 93.130000, iterations = 52
+Accuracy when momentum is 19 is 93.110000, iterations = 47
+Accuracy when momentum is 20 is 93.100000, iterations = 46
+
+Where each iteration means the training of complete dataset in one go.

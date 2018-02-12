@@ -1,5 +1,5 @@
 # Digit-Recognition
-In this project, we train our own ANN using backpropagation algorithm on MNIST 
+In this project, we train our own ANN with one hidden using backpropagation algorithm on MNIST 
 dataset which later can help our machine to identify a given numeric digit.
 
 # More About Dataset

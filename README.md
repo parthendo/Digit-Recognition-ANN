@@ -33,6 +33,6 @@ This chapter is more mathematically involved than the rest of the book. If you'r
 <a href="https://www.codecogs.com/eqnedit.php?latex=Error_{total}&space;=&space;\frac{1}{2}&space;(Output_{Expected}&space;-&space;Output_{Calculated})^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Error_{total}&space;=&space;\frac{1}{2}&space;(Output_{Expected}&space;-&space;Output_{Calculated})^2" title="Error_{total} = \frac{1}{2} (Output_{Expected} - Output_{Calculated})^2" /></a><br>
 The above is the squared error function used to calculate the error. For each iteration, we check the error obtained in the previous iteration and the current iteration and the difference is then compared with a momentum value. If this goes below a value, we stop the process.
 
-I would like to show my deepest and humble gratitude towards my mentor, Professor Akshay Rajput who helped me in all sorts. Also my friends Saurabh, Vineet, Upendra, Mohak, Priyanshu. Much thanks! ಥ‿ಥ
+I would like to show my deepest and humble gratitude towards my mentor, Professor Akshay Rajput who helped me in all sorts. Much thanks! ಥ‿ಥ
 
 Feel free to drop any suggestions at parthendo@geu.ac.in 

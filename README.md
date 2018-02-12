@@ -48,6 +48,11 @@ Accuracy for class 9 is 94.449950 percent<br>
 
 The overall accuracy obtained is **95.85%**
 
+# Module Explanation
+**Dataset/mnist_all.mat**: Matfile containing processed MNIST dataset containing 10 classes (0-9) having 60000 training images and 10000 testing images.
+**Dataset/DigitRecognition.mat**: Matfile containing the final weight matrices after completely training the model after the absolute error is unity. When tested using these weight matrices, we get the accuracy discussed above.
+**Dataset/trainSet.mat**: Refer cotent under the heading "Initializing The Dataset". 
+
 Refer summary and statistics file for more details.<br><br>
 
 I would like to show my deepest and humble gratitude towards my mentor, Professor Akshay Rajput who helped me in all sorts. Much thanks! ಥ‿ಥ <br>

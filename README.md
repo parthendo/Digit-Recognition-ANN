@@ -1,5 +1,5 @@
 # Digit-Recognition
-In this project, we train our own ANN with one hidden using backpropagation algorithm on MNIST 
+In this project, we train our own ANN with one hidden layer using backpropagation algorithm on MNIST 
 dataset which later can help our machine to identify a given numeric digit.
 
 # More About Dataset
@@ -48,7 +48,7 @@ Accuracy for class 9 is 94.449950 percent<br>
 
 The overall accuracy obtained is **95.85%**
 
-Refer summary and statistics file for more details.
+Refer summary and statistics file for more details.<br><br>
 
 I would like to show my deepest and humble gratitude towards my mentor, Professor Akshay Rajput who helped me in all sorts. Much thanks! ಥ‿ಥ
 Feel free to drop any suggestions at parthendo@geu.ac.in 

@@ -51,7 +51,14 @@ The overall accuracy obtained is **95.85%**
 # Module Explanation
 **DataSet/mnist_all.mat**: Matfile containing processed MNIST dataset containing 10 classes (0-9) having 60000 training images and 10000 testing images.<br>
 **DataSet/DigitRecognition.mat**: Matfile containing the final weight matrices after completely training the model after the absolute error is unity. When tested using these weight matrices, we get the accuracy discussed above.<br>
-**DataSet/trainSet.mat**: Refer cotent under the heading `Initializing The Dataset`. 
+**DataSet/trainSet.mat**: Refer cotent under the heading `Initializing The Dataset`.<br>
+**Code/imageProjection**: Visualizing the dataset.<br>
+**Code/init**: Initializing the dataset as explained under the heading `Initialing The Dataset`.<br>
+**Code/backPropagation**: Declaring the weight matrix and creating the neural network. Calls the `feedForward.m` method and feeds the input using wait matrix to the hidden layer which further feeds forward to the output layer. Takes the total error at the output layer and corrects the error.In short, performs the backpropagation algorithm.<br>
+**Code/feedForward**: Method that uses the formula `input*weight + bias` and later uses the sigmoidal function to normalise the value.<br>
+**Code/Test**: Testing the 10000 test images over the trained weights obtained from the module `backPropagation.m`.<br>
+**Code/DigitRecognition**: Main Method that triggers all the other method.<br><br>
+
 
 Refer summary and statistics file for more details.<br><br>
 

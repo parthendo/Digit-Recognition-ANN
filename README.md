@@ -46,7 +46,7 @@ Accuracy for class 7 is 94.844358 percent<br>
 Accuracy for class 8 is 96.201232 percent<br>
 Accuracy for class 9 is 94.449950 percent<br>
 
-The overall accuracy obtained is **95.85%
+The overall accuracy obtained is **95.85%**
 
 Refer summary and statistics file for more details.
 

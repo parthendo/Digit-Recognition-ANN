@@ -34,17 +34,17 @@ This chapter is more mathematically involved than the rest of the book. If you'r
 The above is the squared error function used to calculate the error. For each iteration, we check the error obtained in the previous iteration and the current iteration and the difference is then compared with a momentum value. If this goes below a value, we stop the process.
 
 # Results
-Classwise accuracies achieved are:
-Accuracy for class 0 is 98.469388 percent
-Accuracy for class 1 is 98.149780 percent
-Accuracy for class 2 is 95.930233 percent
-Accuracy for class 3 is 95.049505 percent
-Accuracy for class 4 is 94.602851 percent
-Accuracy for class 5 is 93.609865 percent
-Accuracy for class 6 is 96.764092 percent
-Accuracy for class 7 is 94.844358 percent
-Accuracy for class 8 is 96.201232 percent
-Accuracy for class 9 is 94.449950 percent
+Classwise accuracies achieved are:<br>
+Accuracy for class 0 is 98.469388 percent<br>
+Accuracy for class 1 is 98.149780 percent<br>
+Accuracy for class 2 is 95.930233 percent<br>
+Accuracy for class 3 is 95.049505 percent<br>
+Accuracy for class 4 is 94.602851 percent<br>
+Accuracy for class 5 is 93.609865 percent<br>
+Accuracy for class 6 is 96.764092 percent<br>
+Accuracy for class 7 is 94.844358 percent<br>
+Accuracy for class 8 is 96.201232 percent<br>
+Accuracy for class 9 is 94.449950 percent<br>
 
 # The overall accuracy obtained is 95.85%
 

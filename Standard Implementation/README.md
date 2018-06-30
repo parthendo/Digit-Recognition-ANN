@@ -12,10 +12,14 @@ The dataset can also be found in Standard Implementation/Dataset
 
 # About
 Earlier, in the root directory, we trained an artificial neural network using the backpropagation algorithm. This time, we used standard python libraries to implement the same. The algorithms implemented are:
-<li> Support vector machine
-<li> Naive Bayes
-	<li> Multinomial function
-	<li> Gaussian function
-<li> Quadratic Discriminant Analysis
-<li> Random Forest
-<li> Multi layer perceptron
+* Support vector machine
+* Naive Bayes
+	* Multinomial function
+	* Gaussian function
+* Quadratic Discriminant Analysis
+* Random Forest
+* Multi layer perceptron
+
+###### How to run: *`python -W ignore main.py`*
+
+![Results](https://github.com/parthendo/Digit-Recognition-ANN/blob/master/Standard%20Implementation/Dataset/img.png)

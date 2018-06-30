@@ -1,0 +1,18 @@
+       ############################################
+       #           Digit Recognition              #
+       ############################################
+
+Follow the commands to execute the required algorithm
+
+-Enter 'ld' or 'load data' to make a new pickle file
+-Enter 'help' or 'h' to trigger help menu
+-Enter 'svm' or 'supportvector' or 'supportvectormachine' for svm classifier
+-Other algorithms supported are:
+	'nb' or 'naive bayes'
+	'mlp' or 'multi layer perceptron'
+	'qda' or 'Quadratic Discriminant Analysis'
+	'rf' or 'random forest'
+-Enter 'quit' or 'q' to exit
+
+Note: Graphical representation of the result, image projection, algorithm 
+comparison and GUI to be added soon

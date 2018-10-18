@@ -1,4 +1,4 @@
-Status Update 2, convergance difference : 1.102055
+Status Update 2, convergance difference :  1.102055
 Status Update 1, 753 iterations done on stoppingCriteria 1
 Status Update 2, convergance difference : 1.100528
 Status Update 1, 754 iterations done on stoppingCriteria 1

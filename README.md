@@ -63,4 +63,4 @@ The overall accuracy obtained is **95.85%**
 Refer summary and statistics file for more details.<br><br>
 
 I would like to show my deepest and humble gratitude towards my mentor, Professor Akshay Rajput who helped me in all sorts. Much thanks! ಥ‿ಥ <br>
-Feel free to drop any suggestions at parthendo@geu.ac.in 
+Feel free to drop any suggestions and any more challenging ideas at parthendo@geu.ac.in 
